@@ -14,11 +14,11 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Softphone",
-            url: "https://dist.acrobits.net/heartbeat-swift-package/debug/Softphone.xcframework-187014.zip",
-            checksum: "707410ad2dc03cd38f4a4eca2666517ee4988675ad497b9f9a2e23511fcfa6a8"),
+            url: "https://dist.acrobits.net/heartbeat-swift-package/debug/Softphone.xcframework-187158.zip",
+            checksum: "f22cc1d1f1cba5850ce6e34ec2de931c60a64df43a84b1e2fa358d3acb2ec7ad"),
         .binaryTarget(
             name: "Softphone_Swift",
-            url: "https://dist.acrobits.net/heartbeat-swift-package/debug/Softphone_Swift.xcframework-187014.zip",
-            checksum: "00d37b4f6a5a5160e592399b268d5da8317551d2af8f88334f1fc094d6359054"),
+            url: "https://dist.acrobits.net/heartbeat-swift-package/debug/Softphone_Swift.xcframework-187158.zip",
+            checksum: "5d1a738df0d1c0c9a56ab935bdad56522d9af84d2673dcf2ac652fbe7b50b322"),
     ]
 )
